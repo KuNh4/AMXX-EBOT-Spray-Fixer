@@ -14,7 +14,7 @@ It makes bots spray when holding automatic weapons instead of tap/burst shooting
 - ebot_spray_max_time 2.0 // Maximum Spray Time (in seconds)
 
 # Note
-ebot_spray_type 1 used distance between the player & victim to make more realistic shooting behavior
+ebot_spray_type 1 uses distance between the player & victim to make more realistic shooting behavior
 
 ebot_spray_type 2 if bot has crosshair on target shoots otherwise stops, similar behavior to 1
 
