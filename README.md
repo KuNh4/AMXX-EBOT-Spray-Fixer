@@ -18,4 +18,6 @@ ebot_spray_type 1 uses distance between the player & victim to make more realist
 
 ebot_spray_type 2 if bot has crosshair on target shoots otherwise stops, similar behavior to 1
 
+ebot_spray_type 2 ignores min_time, max_time, spray_distance cvars.
+
 E-BOT Legacy R12 is known to be the most stable version to use with Zombie Mods in CS 1.6.
